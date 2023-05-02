@@ -1,7 +1,7 @@
 public class HandheldHaltingPt2 {
     public static String inputString = """
         
-    """; // Insert your puzzle input between the triple quotes
+    """; // Insert your puzzle inputs between the triple quotes
 
     public static String[] getStringArray(String inputString) {
         String[] instructions = inputString.split("\n", 0);
